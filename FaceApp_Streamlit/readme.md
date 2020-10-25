@@ -6,7 +6,7 @@
 
  <p align='center'>
  
- <img src = "https://github.com/diwakarDrs/OpenCV/blob/master/FaceApp_Streamlit/Readme_resource/Face_app.png" width = 600 alt="StreamLit_App">
+ <img src = "https://github.com/diwakarDrs/OpenCV/blob/master/FaceApp_Streamlit/Readme_resource/Face_app_1.png" width = 800 alt="StreamLit_App">
  </p>
  
   <p float="left" align='center'>
