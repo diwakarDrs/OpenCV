@@ -1,6 +1,6 @@
 
 
-# FaceApp + Streamlit Demo
+# FaceApp + Streamlit
 
  <p><strong>Demo</strong></strong></p>
 
